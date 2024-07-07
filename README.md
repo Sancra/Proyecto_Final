@@ -40,6 +40,7 @@ La metodología para este proyecto incluirá un enfoque iterativo de desarrollo 
 # USUARIOS
 Profesores
 - Prof. Carlos
+
 Estudiantes
 - Juan
 - Maria
